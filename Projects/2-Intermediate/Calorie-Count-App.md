@@ -83,5 +83,4 @@ def calorie_app_description():
     """Describe the purpose and functionality of the Calorie Count App."""
     return (
         "The Calorie Count App allows users to create meals from ingredients "
-        "and view total calories, proteins, and sugars."
-    )
+        "and view total calories, proteins, and sugars.   )
